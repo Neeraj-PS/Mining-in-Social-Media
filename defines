@@ -1,0 +1,4 @@
+<?php
+	define( 'INSTAGRAM_APP_ID', '3363325947254351' );
+	define( 'INSTAGRAM_APP_SECRET', '26064de8b9d514dbd187b697dd26bac4' );
+	define( 'INSTAGRAM_APP_REDIRECT_URI', 'https://dev-nrjcreations.pantheonsite.io/instagram-basic-api/' );
